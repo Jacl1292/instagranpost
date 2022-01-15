@@ -1,0 +1,78 @@
+body{
+    background: black;
+}
+.post{
+    background: white;
+    width: 300px;
+    height: 600px;
+    margin: auto;
+}
+.title{
+   
+    width: 300px;
+    height: 50px;
+}
+.title i{
+    width: 10px;
+    height: 40px;
+    float: right;
+    padding-inline-end: 10px;
+    margin-top: 5px;
+}
+.titleleft{
+    display:flex;
+    width: 200px;
+    height: 50px;
+    float: left;
+    margin-left: 5px;
+}
+.titleleft i{
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding: 0px;
+}
+.nombre{
+    width: 100px;
+    height: 50px;
+    margin: 0%;
+}
+.nombre h1{
+    width: 70px;
+    height: 25px;
+    margin: 0%;
+}
+.nombre h3{
+    width: 50px;
+    height: 20px;
+    margin-top: 5px; 
+}
+.imagen{
+    width: 300px;
+    height: 350px;
+}
+.imagen img{
+    width: 300px;
+    height: 340px;
+    margin-top: 9px;
+}
+.cuerpo{
+    width: 290px;
+    height: 200px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.reaction{
+height: 40px;
+}   
+.reaction i {
+    float: left;
+    height: 30px;
+    padding-left: 5px;
+}
+.reaction i:nth-child(4){
+float: right;
+}
+.subtittle p {
+    margin: 5px;
+}
